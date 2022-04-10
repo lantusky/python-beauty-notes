@@ -1,0 +1,16 @@
+# Config matplotlib default settings
+
+font.family: serif
+
+figure.titlesize: 24
+
+axes.titlesize : 24
+axes.labelsize : 20
+
+lines.linewidth : 2
+lines.markersize : 8
+
+xtick.labelsize : 16
+ytick.labelsize : 16
+
+legend.fontsize: 14
